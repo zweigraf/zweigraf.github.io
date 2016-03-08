@@ -31,7 +31,7 @@
         "start_year" : 2012,
         "end_year" : 2013,
         "description" : "<description>",
-        "technologies" : ["Java", "Eclipse RCP", "GEF", "UML", "model based testing", "continuous integration", "Hudson", "Jenkins", "Maven", "Ant", "XML"]
+        "technologies" : ["Java", "Eclipse RCP", "UML", "model based testing", "continuous integration", "Hudson", "Jenkins", "Maven", "Ant", "XML"]
     }],
     "education" : [{
         "school" : "Beuth University of Applied Sciences",
