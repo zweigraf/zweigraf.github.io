@@ -6,7 +6,7 @@
         "skype" : "zweigraf",
         "twitter" : "zweigraf",
         "github" : "zweigraf",
-        "bio" : null
+        "bio" : "Driven, passionate professional with 3+ years combined experience as a software engineer. Specializing in iOS, OS X and all things the web has to offer."
     },
     "professional_experience" : [{
         "company" : "nanocosmos Informationstechnologien GmbH",
@@ -14,7 +14,7 @@
         "location" : "Berlin",
         "start_year" : 2014,
         "end_year" : null,
-        "description" : "<description>",
+        "description" : "Greenfield development of streaming service backend with Node.js and Express. Web client development with Angular.js.",
         "technologies" : ["Node.js", "Nginx", "Docker", "DevOps", "Git", "Jenkins", "SaaS", "grunt", "npm", "mocha", "bower", "AWS", "Ansible", "Angular.js", "WebSockets", "PostgreSQL", "REST API", "continuous integration", "GitLab", "SDK", "Wowza"]
     }, {
         "company" : "nanocosmos Informationstechnologien GmbH",
@@ -22,7 +22,7 @@
         "location" : "Berlin",
         "start_year" : 2013,
         "end_year" : 2014,
-        "description" : "<description>",
+        "description" : "Development of an iOS client for a social network focused on live video streaming interfacing with a REST API. Maintenance and improvements to video streaming SDK. Development of OS X app for video streaming network with completely custom UI.",
         "technologies" : ["iOS", "Xcode", "JavaScript", "OS X", "Node.js", "REST", "HTTP", "AFNetworking", "UIKit", "CoreGraphics", "AVFoundation", "JSON", "h.264", "AAC", "MP4", "RTMP", "HLS", "SVN", "User Generated Content", "NPAPI", "HTML", "CSS", "Cordova", "Phonegap", "Quicktime", "OAuth", "PHP", "MySQL"]
     }, {
         "company" : "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
@@ -30,7 +30,7 @@
         "location" : "Berlin",
         "start_year" : 2012,
         "end_year" : 2013,
-        "description" : "<description>",
+        "description" : "Maintenance and improvements to tool for model based testing. Setup of continuous integration (via Hudson) for complex Eclipse RCP app.",
         "technologies" : ["Java", "Eclipse RCP", "UML", "model based testing", "continuous integration", "Hudson", "Jenkins", "Maven", "Ant", "XML"]
     }],
     "education" : [{
