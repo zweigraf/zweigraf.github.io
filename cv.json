@@ -1,0 +1,63 @@
+{
+    "profile" : {
+        "first_name" : "Luis",
+        "last_name" : "Reisewitz",
+        "location" : "Berlin",
+        "skype" : "zweigraf",
+        "twitter" : "zweigraf",
+        "github" : "zweigraf",
+        "bio" : null
+    },
+    "professional_experience" : [{
+        "company" : "nanocosmos Informationstechnologien GmbH",
+        "job_title" : "software engineer",
+        "location" : "Berlin",
+        "start_year" : 2014,
+        "end_year" : null,
+        "description" : "<description>",
+        "technologies" : []
+    }, {
+        "company" : "nanocosmos Informationstechnologien GmbH",
+        "job_title" : "graduate software engineer",
+        "location" : "Berlin",
+        "start_year" : 2013,
+        "end_year" : 2014,
+        "description" : "<description>",
+        "technologies" : []
+    }, {
+        "company" : "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
+        "job_title" : "graduate software engineer",
+        "location" : "Berlin",
+        "start_year" : 2012,
+        "end_year" : 2013,
+        "description" : "<description>",
+        "technologies" : []
+    }],
+    "education" : [{
+        "school" : "Beuth University of Applied Sciences",
+        "location" : "Berlin",
+        "year" : 2014,
+        "degree" "Bachelor Of Science, Media Informatics (Medieninformatik)",
+        "overall_grade" : "very good with distinction (ECTS grade A)"
+    }, {
+        "school" : "Gymnasium Hankensbüttel",
+        "location" : "Hankensbüttel",
+        "year" : 2011,
+        "degree" : "general qualification for university entrance (Abitur)",
+        "overall_grade" : "1.8"
+    }],
+    "publications" : [{
+        "type" : "bachelor thesis",
+        "year" : 2014,
+        "title" : "development of a modern social media platform with live video support (Entwicklung einer modernen Social-Media-Plattform mit Live-Video-Unterstützung)"
+    }],
+    "additional_skills" : {
+        "languages" : [{
+            "language" : "German",
+            "level" : "native speaker"
+        }, {
+            "language" : "English",
+            "level" : "fluent"
+        }]
+    }
+}
