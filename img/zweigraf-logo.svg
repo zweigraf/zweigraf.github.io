@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="84"
+   height="79"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9943 custom"
+   sodipodi:docname="zweigraf_logo.svg"
+   inkscape:export-filename="/Users/zweigraf/Pictures/zweigraf/zweigraf_logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.2623061"
+     inkscape:cx="43.561883"
+     inkscape:cy="33.509143"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="953"
+     inkscape:window-height="650"
+     inkscape:window-x="-2"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-973.36218)">
+    <path
+       sodipodi:type="star"
+       style="fill:#5fbcd3"
+       id="path2991"
+       sodipodi:sides="6"
+       sodipodi:cx="-220.61797"
+       sodipodi:cy="163.50468"
+       sodipodi:r1="99.462242"
+       sodipodi:r2="49.731121"
+       sodipodi:arg1="0.6129974"
+       sodipodi:arg2="1.1365962"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -139.26509,220.72747 -90.23282,41.84226 -81.35288,-57.22278 8.87995,-99.06505 90.23282,-41.842266 81.35288,57.222786 z"
+       transform="matrix(0.23139784,-0.02093556,0.02093556,0.23139784,69.65033,970.40894)"
+       inkscape:export-filename="/Users/zweigraf/Desktop/iphonecase_blue.png"
+       inkscape:export-xdpi="480.38867"
+       inkscape:export-ydpi="480.38867" />
+    <g
+       style="font-size:17.19847679px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text2984">
+      <path
+         d="m 11.652853,1009.9456 0,-1.5651 -6.8621926,0 0,1.6855 4.3684131,0 -4.4028101,5.6927 0,1.565 6.9653836,0 0,-1.6854 -4.4544059,0 4.3856119,-5.6927"
+         style="font-style:normal;fill:#ffffff;-inkscape-font-specification:Klavika Med Caps Semi-Bold"
+         id="path3000" />
+      <path
+         d="m 21.11309,1008.3805 -2.37339,0 -1.788641,6.3635 -1.737046,-6.3635 -2.046619,0 2.510977,8.9432 2.545375,0 1.702649,-6.587 1.702649,6.587 2.545375,0 2.510978,-8.9432 -2.046619,0 -1.737046,6.3635 -1.788642,-6.3635"
+         style="font-style:normal;fill:#ffffff;-inkscape-font-specification:Klavika Med Caps Semi-Bold"
+         id="path3002" />
+      <path
+         d="m 28.4082,1017.3237 6.277444,0 0,-1.7542 -4.144833,0 0,-1.9262 3.835261,0 0,-1.7715 -3.835261,0 0,-1.737 4.144833,0 0,-1.7543 -6.277444,0 0,8.9432"
+         style="font-style:normal;fill:#ffffff;-inkscape-font-specification:Klavika Med Caps Semi-Bold"
+         id="path3004" />
+      <path
+         d="m 39.326814,1008.3805 -2.132611,0 0,8.9432 2.132611,0 0,-8.9432"
+         style="font-style:normal;fill:#ffffff;-inkscape-font-specification:Klavika Med Caps Semi-Bold"
+         id="path3006" />
+      <path
+         d="m 48.336399,1017.4957 c 1.186693,0 2.579772,-0.1548 3.560084,-0.4815 l 0.705138,-3.9041 -1.943428,0 -0.464359,2.5282 c -0.533152,0.1204 -1.169497,0.1548 -1.565061,0.1548 -1.066305,0 -1.324283,-0.2752 -1.324283,-0.7912 0,-0.1204 0.0172,-0.2235 0.05159,-0.4127 l 0.619146,-3.4913 c 0.154786,-0.8943 0.567551,-1.1351 1.702649,-1.1351 0.773931,0 1.943429,0.1204 2.923741,0.3096 l 0.343969,-1.5823 c -0.945915,-0.3096 -2.167009,-0.4816 -3.181718,-0.4816 -2.56257,0 -3.508489,0.602 -3.869657,2.683 l -0.670741,3.8009 c -0.0344,0.1891 -0.06879,0.4471 -0.06879,0.6535 0,1.3759 0.911522,2.1498 3.181719,2.1498"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Klavika Med Caps;-inkscape-font-specification:Klavika Med Caps Semi-Bold Italic"
+         id="path3008" />
+      <path
+         d="m 60.254404,1017.3237 2.253001,0 -1.479069,-2.9753 c 0.808327,-0.3612 1.341481,-0.9287 1.547863,-2.0982 l 0.22358,-1.2727 c 0.0344,-0.1892 0.06879,-0.4472 0.06879,-0.6535 0,-1.1695 -0.722338,-1.9435 -2.751757,-1.9435 l -4.162031,0 -1.58226,8.9432 2.098214,0 0.464359,-2.6141 2.012222,0 1.307084,2.6141 m 0.275176,-5.1595 c -0.103191,0.5847 -0.378368,0.8771 -1.272688,0.8771 l -2.02942,0 0.515955,-2.9581 2.046618,0 c 0.722336,0 0.980313,0.1548 0.980313,0.5847 0,0.086 -0.0172,0.2064 -0.0344,0.3096 l -0.206381,1.1867"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Klavika Med Caps;-inkscape-font-specification:Klavika Med Caps Semi-Bold Italic"
+         id="path3010" />
+      <path
+         d="m 70.264456,1017.3237 2.02942,0 -1.479069,-8.9432 -2.682962,0 -4.488803,8.9432 2.098214,0 0.773932,-1.5994 3.508489,0 0.240779,1.5994 m -1.01471,-7.3609 0.584748,4.1276 -2.528176,0 1.943428,-4.1276"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Klavika Med Caps;-inkscape-font-specification:Klavika Med Caps Semi-Bold Italic"
+         id="path3012" />
+      <path
+         d="m 77.528392,1010.0832 4.17923,0 0.292374,-1.7027 -6.260246,0 -1.582259,8.9432 2.098214,0 0.584748,-3.3537 3.869657,0 0.292374,-1.7026 -3.852458,0 0.378366,-2.1842"
+         style="font-style:italic;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Klavika Med Caps;-inkscape-font-specification:Klavika Med Caps Semi-Bold Italic"
+         id="path3014" />
+    </g>
+  </g>
+</svg>
