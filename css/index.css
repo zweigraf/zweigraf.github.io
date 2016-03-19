@@ -25,6 +25,7 @@ h1, h2, h3 {
 }
 header {
     text-align: center;
+    line-height: 2;
 }
 nav {
     text-align: center;
