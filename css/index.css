@@ -21,9 +21,11 @@ body {
 h1, h2, h3 { 
     line-height:1.2;
     font-weight: 400;
+    font-size: larger;
 }
 header {
     text-align: center;
+    line-height: 2;
 }
 nav {
     text-align: center;
@@ -34,4 +36,17 @@ img {
 a {
     color: #50AEC9;
     font-weight: 400;
+}
+hr {
+    border: 0;
+    border-bottom: 1px solid #eee;
+}
+ul {
+    list-style-type: none;
+}
+li:before {
+/* following hex code stands for '&ndash;&nbsp;'
+ * see also http://stackoverflow.com/questions/190396/adding-html-entities-using-css-content?rq=1
+ * */
+    content: "\2013\0000a0";
 }
