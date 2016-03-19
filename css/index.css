@@ -1,12 +1,21 @@
+/* zweigraf.github.io
+ * 
+ * colors derived from 
+ * https://coolors.co/app/eeeeee-4f6367-50aec9-50514f-247ba0
+ *  text: #353535
+ *  background: #4F6367
+ *  links, logo: #50AEC9
+ * 
+ * */
 body { 
     margin:40px auto;
     max-width:650px;
     line-height:1.6;
     font-size:18px;
     font-weight: 200;
-    color:#444;
+    color: #eee;
     padding:0 10px;
-    background-color: #eee;
+    background-color: #4F6367;
     font-family: 'Source Sans Pro', 'Helvetica Neue', sans-serif;
 }
 h1, h2, h3 { 
@@ -21,4 +30,8 @@ nav {
 }
 img {
     max-width: 100%;
+}
+a {
+    color: #50AEC9;
+    font-weight: 400;
 }
