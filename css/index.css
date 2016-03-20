@@ -38,9 +38,11 @@ a {
     font-weight: 400;
     text-decoration: none;
 }
+/* Gradient transparent - color - transparent */
 hr {
     border: 0;
-    border-bottom: 1px solid #eee;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(238, 238, 238, 0), rgba(238, 238, 238, 0.75), rgba(238, 238, 238, 0));
 }
 ul {
     list-style-type: none;
