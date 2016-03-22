@@ -12,7 +12,16 @@
             <a href="/"><img src="/img/zweigraf-logo.svg" height="120" alt="zweigraf logo"></a>
             <aside>Things'n'stuff.</aside>
             <nav>
-                <a href="/" class="menu-active">About</a>&nbsp;|&nbsp;<a href="/projects.html">Projects</a>&nbsp;|&nbsp;<a href="/cv.html">CV</a>
+                {% for link in site.pages %}
+                  {% assign current = false %}
+                  {% if page.url == link.url %}
+                    {% assign current = true %}
+                  {% endif %}
+                
+                    <a href="{{ link.url }}" {% if current %} class="menu-active" {% endif %}>{{ link.navtitle }}</a>
+                {% endfor %}
+                
+                
                 <hr>
             </nav>
         </header>
