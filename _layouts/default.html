@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Luis Reisewitz &ndash; zweigraf</title>
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200" rel="stylesheet" type="text/css">
+        <link href="/css/index.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <header>
+            <a href="/"><img src="/img/zweigraf-logo.svg" height="120" alt="zweigraf logo"></a>
+            <aside>Things'n'stuff.</aside>
+            <nav>{% for link in site.pages %}{% assign current = false %}{% if page.url == link.url %}{% assign current = true %}{% endif %}
+                    <a href="{{ link.url }}"{% if current %} class="menu-active"{% endif %}>{{ link.navtitle }}</a>
+                    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}<hr>
+            </nav>
+        </header>
+        <main>
+            {{ content }}
+        </main>
+        <footer>
+            <hr>
+            This page is hosted on <a href="https://github.com/zweigraf/zweigraf.github.io">GitHub</a>.
+        </footer>
+    </body>
+</html>
