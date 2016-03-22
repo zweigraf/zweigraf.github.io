@@ -13,15 +13,15 @@
             <aside>Things'n'stuff.</aside>
             <nav>
                 {% for link in site.pages %}
-                  {% assign current = false %}
-                  {% if page.url == link.url %}
-                    {% assign current = true %}
-                  {% endif %}
-                
-                    <a href="{{ link.url }}" {% if current %} class="menu-active" {% endif %}>{{ link.navtitle }}</a>
+                    {% assign current = false %}
+                    {% if page.url == link.url %}
+                        {% assign current = true %}
+                    {% endif %}
+                    <a href="{{ link.url }}"
+                    {% if current %}class="menu-active"{% endif %}
+                    >{{ link.navtitle }}</a>
+                    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
                 {% endfor %}
-                
-                
                 <hr>
             </nav>
         </header>
