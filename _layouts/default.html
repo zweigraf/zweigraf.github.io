@@ -11,18 +11,9 @@
         <header>
             <a href="/"><img src="/img/zweigraf-logo.svg" height="120" alt="zweigraf logo"></a>
             <aside>Things'n'stuff.</aside>
-            <nav>
-                {% for link in site.pages %}
-                    {% assign current = false %}
-                    {% if page.url == link.url %}
-                        {% assign current = true %}
-                    {% endif %}
-                    <a href="{{ link.url }}"
-                    {% if current %}class="menu-active"{% endif %}
-                    >{{ link.navtitle }}</a>
-                    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}
-                {% endfor %}
-                <hr>
+            <nav>{% for link in site.pages %}{% assign current = false %}{% if page.url == link.url %}{% assign current = true %}{% endif %}
+                    <a href="{{ link.url }}"{% if current %} class="menu-active"{% endif %}>{{ link.navtitle }}</a>
+                    {% unless forloop.last %}&nbsp;|&nbsp;{% endunless %}{% endfor %}<hr>
             </nav>
         </header>
         <main>
