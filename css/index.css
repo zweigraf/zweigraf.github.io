@@ -51,3 +51,6 @@ li:before {
  * */
     content: "\2013\0000a0";
 }
+a.menu-active {
+    text-decoration: underline;
+}
