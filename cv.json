@@ -30,7 +30,7 @@
         "location" : "Berlin",
         "start_year" : 2012,
         "end_year" : 2013,
-        "description" : "Maintenance and improvements to tool for model based testing. Setup of continuous integration (via Hudson) for complex Eclipse RCP app.",
+        "description" : "Maintenance and improvements to tool for model based testing. Setup of complete continuous integration pipeline (via Hudson and Maven) for complex Eclipse RCP app.",
         "technologies" : ["Java", "Eclipse RCP", "UML", "model based testing", "continuous integration", "Hudson", "Jenkins", "Maven", "Ant", "XML"]
     }],
     "education" : [{
