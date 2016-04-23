@@ -6,7 +6,8 @@
         "skype" : "zweigraf",
         "twitter" : "zweigraf",
         "github" : "zweigraf",
-        "bio" : "Driven, passionate professional with 3+ years combined experience as a software engineer. Specializing in iOS, OS X and all things the web has to offer. Loves to automate everything. Dabbling in art, digital as well as analog, and hobby game development."
+        "web" : "http://zweigraf.com",
+        "bio" : "Driven, passionate professional with 3+ years combined experience as a software engineer. Specializing in iOS, OS X and all things the web has to offer. Trying to automate everything. Dabbling in art, digital as well as analog, and hobby game development."
     },
     "professional_experience" : [{
         "company" : "nanocosmos Informationstechnologien GmbH",
