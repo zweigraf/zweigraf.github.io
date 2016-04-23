@@ -15,7 +15,7 @@
         "start_year" : 2014,
         "end_year" : null,
         "description" : "Greenfield development of streaming service backend with Node.js and Express. Web client development with Angular.js. Streaming service SDK development for iOS.",
-        "technologies" : ["Objective-C, Swift, Node.js", "Nginx", "Docker", "DevOps", "Git", "Jenkins", "SaaS", "grunt", "npm", "mocha", "bower", "AWS", "Ansible", "Angular.js", "WebSockets", "PostgreSQL", "REST API", "continuous integration", "GitLab", "SDK", "Wowza"]
+        "technologies" : ["Objective-C", "Swift", Node.js", "Nginx", "Docker", "DevOps", "Git", "Jenkins", "SaaS", "grunt", "npm", "mocha", "bower", "AWS", "Ansible", "Angular.js", "WebSockets", "PostgreSQL", "REST API", "continuous integration", "GitLab", "SDK", "Wowza", "CoreAudio", "CoreImage", "CoreLocation"]
     }, {
         "company" : "nanocosmos Informationstechnologien GmbH",
         "job_title" : "graduate software engineer",
