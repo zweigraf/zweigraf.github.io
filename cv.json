@@ -15,7 +15,7 @@
         "start_year" : 2014,
         "end_year" : null,
         "description" : "Greenfield development of streaming service backend with Node.js and Express. Web client development with Angular.js. Streaming service SDK development for iOS.",
-        "technologies" : ["Node.js", "Nginx", "Docker", "DevOps", "Git", "Jenkins", "SaaS", "grunt", "npm", "mocha", "bower", "AWS", "Ansible", "Angular.js", "WebSockets", "PostgreSQL", "REST API", "continuous integration", "GitLab", "SDK", "Wowza"]
+        "technologies" : ["Objective-C, Swift, Node.js", "Nginx", "Docker", "DevOps", "Git", "Jenkins", "SaaS", "grunt", "npm", "mocha", "bower", "AWS", "Ansible", "Angular.js", "WebSockets", "PostgreSQL", "REST API", "continuous integration", "GitLab", "SDK", "Wowza"]
     }, {
         "company" : "nanocosmos Informationstechnologien GmbH",
         "job_title" : "graduate software engineer",
@@ -23,7 +23,7 @@
         "start_year" : 2013,
         "end_year" : 2014,
         "description" : "Development of an iOS client for a social network focused on live video streaming interfacing with a REST API. Maintenance and improvements to video streaming SDK. Development of OS X app for video streaming network with completely custom UI.",
-        "technologies" : ["iOS", "Xcode", "JavaScript", "OS X", "Node.js", "REST", "HTTP", "AFNetworking", "UIKit", "CoreGraphics", "AVFoundation", "JSON", "h.264", "AAC", "MP4", "RTMP", "HLS", "SVN", "User Generated Content", "NPAPI", "HTML", "CSS", "Cordova", "Phonegap", "Quicktime", "OAuth", "PHP", "MySQL"]
+        "technologies" : ["Objective-C, iOS", "Xcode", "JavaScript", "OS X", "Node.js", "REST", "HTTP", "AFNetworking", "UIKit", "CoreGraphics", "AVFoundation", "JSON", "h.264", "AAC", "MP4", "RTMP", "HLS", "SVN", "User Generated Content", "NPAPI", "HTML", "CSS", "Cordova", "Phonegap", "Quicktime", "OAuth", "PHP", "MySQL"]
     }, {
         "company" : "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
         "job_title" : "graduate software engineer",
